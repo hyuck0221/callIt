@@ -1,4 +1,4 @@
-[🇰🇷 한국어](https://github.com/shimhyuck/callIt/blob/main/README_ko.md) | [🇯🇵 日本語](https://github.com/shimhyuck/callIt/blob/main/README_ja.md) | [🇨🇳 中文](https://github.com/shimhyuck/callIt/blob/main/README_zh.md) | [🇫🇷 Français](https://github.com/shimhyuck/callIt/blob/main/README_fr.md)
+[🇰🇷 한국어](https://github.com/hyuck0221/callIt/blob/main/README_ko.md) | [🇯🇵 日本語](https://github.com/hyuck0221/callIt/blob/main/README_ja.md) | [🇨🇳 中文](https://github.com/hyuck0221/callIt/blob/main/README_zh.md) | [🇫🇷 Français](https://github.com/hyuck0221/callIt/blob/main/README_fr.md)
 
 <img src="https://raw.githubusercontent.com/hyuck0221/storage/main/callit/logo.png" alt="CallIt logo" width="200">
 
