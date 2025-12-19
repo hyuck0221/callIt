@@ -1,26 +1,10 @@
-<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.hshim.callIt</id>
 
-    <!-- Public plugin name should be written in Title Case.
-         Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-name -->
     <name>CallIt</name>
-
-    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="ggrteas@gmail.com" url="https://github.com/hyuck0221">hshim</vendor>
 
-    <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
-         Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-description -->
     <description><![CDATA[
-        <!-- Language Selection Buttons -->
-        <p style="text-align: center; margin-bottom: 15px;">
-            <a href="https://github.com/hyuck0221/callIt/blob/main/README_ko.md">🇰🇷 한국어</a> |
-            <a href="https://github.com/hyuck0221/callIt/blob/main/README_ja.md">🇯🇵 日本語</a> |
-            <a href="https://github.com/hyuck0221/callIt/blob/main/README_zh.md">🇨🇳 中文</a> |
-            <a href="https://github.com/hyuck0221/callIt/blob/main/README_fr.md">🇫🇷 Français</a>
-        </p>
-
         <hr/>
 
         <img src="https://raw.githubusercontent.com/hyuck0221/storage/main/callit/logo.png" alt="CallIt logo" width="200">
@@ -62,6 +46,14 @@
 
         <p>
             <em>Note: Requires a valid Google Gemini API key. Get yours at <a href="https://ai.google.dev/">Google AI Studio</a></em>
+        </p>
+
+        <!-- Language Selection Buttons -->
+        <p style="margin-bottom: 15px;">
+            <a href="https://github.com/hyuck0221/callIt/blob/main/README_ko.md">🇰🇷 한국어</a> |
+            <a href="https://github.com/hyuck0221/callIt/blob/main/README_ja.md">🇯🇵 日本語</a> |
+            <a href="https://github.com/hyuck0221/callIt/blob/main/README_zh.md">🇨🇳 中文</a> |
+            <a href="https://github.com/hyuck0221/callIt/blob/main/README_fr.md">🇫🇷 Français</a>
         </p>
     ]]></description>
 
